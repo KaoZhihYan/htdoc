@@ -60,7 +60,7 @@ echo "Your comments:".nl2br($uComment);"<br>";
     echo "Your name is:".$uName;echo "<br>";
     echo "Your passord is:".$uPassword;echo "<br>";
     echo "Your email is:".$uEmail;echo "<br>";
-    echo "Ypur grade is:";
+    echo "Your grade is:";
     switch($uGrade){
         case"大二":
             echo "大二<br>";
